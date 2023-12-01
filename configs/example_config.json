@@ -1,0 +1,8 @@
+{
+    "prompts": ["example_prompt_step1.txt", "example_prompt_step2.txt"],
+    "results_json_path": "results/banking77-gpt-3.5-turbo-example.json",
+    "model_name": "gpt-3.5-turbo",
+    "max_token": 256,
+    "delay": 0.1,
+    "save_every": 10
+}

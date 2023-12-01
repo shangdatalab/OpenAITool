@@ -1,0 +1,2 @@
+Rewrite the `new_utterance` so that it expresses the customer no longer need the `new_intent`.
+Again, please wrap your response into a JSON object that contains key `no_need_utterance`.

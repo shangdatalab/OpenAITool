@@ -1,0 +1,6 @@
+numpy
+tqdm
+fire
+transformers
+openai
+datasets
